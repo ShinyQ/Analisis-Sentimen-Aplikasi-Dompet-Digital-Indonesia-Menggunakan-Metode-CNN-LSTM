@@ -12,9 +12,12 @@ Kombinasi pendekatan deep learning dan pemrosesan bahasa alami diterapkan untuk 
 pembayaran cashless sehingga banyak perusahaan yang menyediakan jasa tersebut seperti DANA, OVO, Link Aja dan Sakuku. 
 
 Kualitas dari perusahaan dompet digital dinilai dari ulasan konsumen dan orang lain ingin mengerti dari ulasan satu orang. Pendapat konsumen ini diatur dengan cara yang terstruktur dan untukmemahami persepsi ulasan dan reaksi konsumen. Data ulasan konsumen kami dapatkan melalui review yang ada pada google play store. Kemudian membuat kumpulan data yang telah kami crawling dan melakukan pengolahan data terelebih dahulu. Dengan menggunakan, arsitektur CNN LSTM gabungan digunakan dalam dataset kami dan mendapatkan akurasi training sebesar 88% dan akurasi validasi sebesar 83%. Juga menggunakan metrik lain untuk mengevaluasi model kami.
+<<<<<<< HEAD
 
 ## **Langkah Pembuatan Model**
 <img src="https://i.ibb.co/2WFH0ps/d50d2301f7b340b720ccbe1fced53b6533184100b2717a6e01326ff5.png" alt="drawing" width="350"/>
+=======
+>>>>>>> 834bd17d4fbf1637df6cb7a6448e010abcb3d2ea
 
 ## **Model Arsitektur CNN Dan LSTM**
 
