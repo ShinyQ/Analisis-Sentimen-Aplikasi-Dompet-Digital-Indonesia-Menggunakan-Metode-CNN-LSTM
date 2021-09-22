@@ -6,22 +6,19 @@ Authors (Yaudalah Team) :
 3. [Kaenova Mahendra Auditama](https://github.com/kaenova)
 4. [Kurniadi Ahmad Wijaya](https://github.com/ShinyQ)
 
-<br />
-
 ## **Abstrak**
 
 Kombinasi pendekatan deep learning dan pemrosesan bahasa alami diterapkan untuk menganalisis sentimen dari teks untuk kalimat tertentu. Proses transaksi keuangan merupakan hal yang sangat sering dijumpai, Bahkan saat ini transaksi keuangan sudah banyak dilakukan dengan teknologi yang sering disebut dengan dompet digital. Teknologi dompet digital juga didukung oleh budaya orang yang mulai menyukai
 pembayaran cashless sehingga banyak perusahaan yang menyediakan jasa tersebut seperti DANA, OVO, Link Aja dan Sakuku. 
 
-Kualitas dari perusahaan dompet digital dinilai dari ulasan konsumen dan orang lain ingin mengerti dari ulasan satu orang. Pendapat konsumen ini diatur dengan cara yang terstruktur dan untukmemahami persepsi ulasan dan reaksi konsumen. Data ulasan konsumen kami dapatkan melalui review yang ada pada google play store. Kemudian membuat kumpulan data yang telah kami crawling dan melakukan pengolahan data terelebih dahulu. Dengan menggunakan, arsitektur CNN LSTM gabungan digunakan dalam dataset kami dan mendapatkan akurasi training sebesar 88% dan akurasi validasi sebesar 83%. Juga menggunakan beberapa metrik kinerja lain untuk mengevaluasi model kami.
+Kualitas dari perusahaan dompet digital dinilai dari ulasan konsumen dan orang lain ingin mengerti dari ulasan satu orang. Pendapat konsumen ini diatur dengan cara yang terstruktur dan untukmemahami persepsi ulasan dan reaksi konsumen. Data ulasan konsumen kami dapatkan melalui review yang ada pada google play store. Kemudian membuat kumpulan data yang telah kami crawling dan melakukan pengolahan data terelebih dahulu. Dengan menggunakan, arsitektur CNN LSTM gabungan digunakan dalam dataset kami dan mendapatkan akurasi training sebesar 88% dan akurasi validasi sebesar 83%. Juga menggunakan metrik lain untuk mengevaluasi model kami.
 
-<br />
+## **Langkah Pembuatan Model**
+<img src="https://i.ibb.co/2WFH0ps/d50d2301f7b340b720ccbe1fced53b6533184100b2717a6e01326ff5.png" alt="drawing" width="350"/>
 
 ## **Model Arsitektur CNN Dan LSTM**
 
 <img src="https://i.ibb.co/x8X69t4/download-2.png" alt="drawing" width="350"/>
-
-<br /><br />
 
 ## **Hasil Metrik Evaluasi Model**
 
